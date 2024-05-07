@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 271fda64776a848f5a161c8099a8dfee
+guid: f1cfc0d98bec8024b8e0ea9a4825b59c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -81,6 +81,19 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -106,30 +119,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RedButton-Spritesheet_0
+      name: load-spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 79
-        width: 238
-        height: 78
+        y: 100
+        width: 192
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 150432a58755db3418e04d5321c8af41
-      internalID: 570479922
+      spriteID: fe474f40c70e988449a50d270dbff1ac
+      internalID: 841133259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedButton-Spritesheet_1
+      name: load-spritesheet_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 238
-        height: 78
+        y: 50
+        width: 192
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,8 +158,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 086cf60955fc84e4a82551d834e23dbf
-      internalID: 1556561116
+      spriteID: 822584d7711243c49b81b1e8e658e5cf
+      internalID: 1976001996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: load-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aa6c97b89524c46b8952e65b716a20
+      internalID: 536454273
       vertices: []
       indices: 
       edges: []
@@ -175,8 +196,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      RedButton-Spritesheet_0: 570479922
-      RedButton-Spritesheet_1: 1556561116
+      load-spritesheet_0: 841133259
+      load-spritesheet_1: 1976001996
+      load-spritesheet_2: 536454273
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

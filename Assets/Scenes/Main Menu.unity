@@ -202,7 +202,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 50, y: 30, z: 1}
+  m_LocalScale: {x: 53, y: 30, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -559,7 +559,7 @@ GameObject:
   - component: {fileID: 552533938}
   - component: {fileID: 552533937}
   m_Layer: 0
-  m_Name: TitleScreen-Spritesheet 1
+  m_Name: TitleScreen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1321,7 +1321,7 @@ SceneRoots:
   - {fileID: 796043988}
   - {fileID: 552533938}
   - {fileID: 1815762356}
-  - {fileID: 498963867}
   - {fileID: 505877295}
   - {fileID: 1332246013}
   - {fileID: 364909977}
+  - {fileID: 498963867}

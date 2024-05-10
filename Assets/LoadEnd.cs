@@ -19,7 +19,14 @@ public class LoadEnd : MonoBehaviour
         
         if(timer <= 0)
         {
-            SceneManager.LoadSceneAsync(2);
+            // Get the currently active scene
+            int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+
+            // Calculate the next scene index, looping back to zero if the current scene is the last one
+            int nextSceneIndex = (currentSceneIndex + 1) % SceneManager.sceneCountInBuildSettings;
+
+            // Load the next scene
+            SceneManager.LoadScene(nextSceneIndex);
         }
     }
 }

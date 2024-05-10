@@ -1,0 +1,1667 @@
+fileFormatVersion: 2
+guid: b77e06eda808c0c4c92d02d59cfd4900
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: griddygif_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2215
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cdd9881a59b5240a04504c8636338a
+      internalID: -1538163917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2215
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068493da31693b94598a7abbc7aebe7d
+      internalID: -611345882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2215
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d400ea0b40424342bfb7c1edd17a917
+      internalID: 1076967977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2215
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad785bd32ec935d4ca1dde0a42016e9b
+      internalID: 1703870920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2215
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afd4e3ed1a57da4d9bc12ffeb13b0fa
+      internalID: 1529087882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_5
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2215
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e6094dd4dc55e458cc4cc1daadd4d1
+      internalID: 915495284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_6
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2215
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67834361eaa6ee45b34978041aa11af
+      internalID: -1764703565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1970
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f048d0ea5a9be72428b64920d2d715b8
+      internalID: -806537199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1970
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f45e1d079ea64142a9df984fb54eb85
+      internalID: -1100936608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1970
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cbc23138fabb34485ba552b7b4b6f0
+      internalID: -1323499680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_10
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1970
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76a5a2b37a52234ba720156807640d2
+      internalID: 2131625981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1970
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcd8872e6671514098c3fedb858ae1d
+      internalID: 1772288578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_12
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1970
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8215146ed6f574caea3fe714d96519
+      internalID: -1951461822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_13
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1970
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e17b0504b250664cbc94b9b25fb1e21
+      internalID: 1144274448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1725
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f28e2ee630a33d488e5769f3acfdf1c
+      internalID: 1916727294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1725
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af6223dfc69b454f8881fb05fc2c508
+      internalID: -980336527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1725
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bf1ba2f42ba9749a6f627089356554
+      internalID: -1011319249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_17
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1725
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f80d2c406478c409d454e6a1eb7e2d
+      internalID: 1199456921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1725
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faae8d0bec1a19e448f801d7620d3f86
+      internalID: 916710607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1725
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e8a40f6d25c5e4e95093baaa300db1
+      internalID: -2140738571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_20
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1725
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8485b680f920243b1b3f87e3e4e503
+      internalID: 719291446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1480
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef0168ca7a4ecd48be731a5d76f3c50
+      internalID: 1568665737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1480
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633b3839cbf772b48bba38c78ce8b296
+      internalID: 1795268850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1480
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26b1b39e1f708f4ca47d5b7dd4dcd38
+      internalID: 1724158915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_24
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1480
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f96c5c852295064c829d51ebf33ca05
+      internalID: 891600479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_25
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1480
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e93ff7bbe575f4695d9eba439812e4
+      internalID: 934204191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_26
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1480
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743c48fcdc750a047bdd9eacdc1ec8fd
+      internalID: -926115048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_27
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1480
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac46cfc4782793d4aafb66fda363c074
+      internalID: -824289387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1235
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cea7068aa62aae49bc7082a9b92b8ee
+      internalID: -1365448933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1235
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339873d7f2ad6ce4984d67f618607561
+      internalID: -841293028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_30
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1235
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd8c5b81b2d62a428f8f230123e6ec6
+      internalID: 1015744975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_31
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1235
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf91d73d3c98be4db04f9b7786c623e
+      internalID: 23619447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_32
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1235
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0de5a3c6233cb04ab4690b0dbde6371
+      internalID: 1424152930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_33
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1235
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3325728c23f128f43967892339683217
+      internalID: 391271129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_34
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1235
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523755aba68054c4fb36754b40518485
+      internalID: 865511412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 990
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c2d511888f3ad418f0afaac4fd0b80
+      internalID: -1880566121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 990
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eecfb47d8256a41a2ada934fcebc07
+      internalID: 1984801394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 990
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a6f475ef57ece48a098d862d21c6f0
+      internalID: -1748360522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_38
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 990
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e755a78cec5da7419db9e2e2b073af9
+      internalID: 1585384371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_39
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 990
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812d227dce8ac01498dcc1346099b80c
+      internalID: 1037595759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_40
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 990
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54da42f896f84e41b8222b3f538cd6c
+      internalID: 883657011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_41
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 990
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79addd5a5d26560449ab1f8d69a6f867
+      internalID: -593196196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 745
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57e3e9f5e0453a45897a3434a298c19
+      internalID: 1161638228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 745
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e29c04d0b045cf4a871fda1b0988220
+      internalID: 1454472483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 745
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3e9bccdf42db9478691f4b89b8846f
+      internalID: 1845405316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_45
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 745
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6903a3f3598b140a467d2f33c6fad7
+      internalID: -2006209502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_46
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 745
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e134b6a3c9d3def41847f80737d034fa
+      internalID: 241088068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_47
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 745
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4215419cf7a14b843b57b6228a4d385f
+      internalID: -723409084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_48
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 745
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c627112d25d38c409422ea5d04884a4
+      internalID: 2132084785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b55ce9c56d14c1419089d1aacd45bd7
+      internalID: -1187895556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_50
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 500
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d9a0a407db8854bb40ec8cf5179af6
+      internalID: -1986520847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_51
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 500
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b362aaa1f39ce046bebffac0f99b85f
+      internalID: 1877976904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_52
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 500
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342cfe4fae1924844bcb843029ed8ae9
+      internalID: 1276311019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_53
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 500
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f02673f26e507648a95c64dba140b7d
+      internalID: 1489649503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_54
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 500
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05210d9a19eab1d4da783a3c53b444d2
+      internalID: -1699231723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_55
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 500
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444d20c0396d4cd419b0df21155854ba
+      internalID: -14722829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899363f8506a72542b3fcf7136db2a69
+      internalID: -2134530996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 255
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296577d31262eca4aa64fc0535f45ae1
+      internalID: 481146994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_58
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 255
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91ddb038be9086429d065f182a39053
+      internalID: 17887227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_59
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 255
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2037799b5b29f45aac5efb4d008556
+      internalID: -868336010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_60
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 255
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed08e8c6d656d3246a552930d22c416d
+      internalID: 2108948952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_61
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 255
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b26487e03e5d79448427d4ca877db62
+      internalID: -1518787585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_62
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 255
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3b232d86129664eb427b77e1582b59
+      internalID: 158890431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2afe00d221f45478320819e26c0c4e
+      internalID: 1358053844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 10
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e688d4c831b1a341bc25f9795091ec4
+      internalID: -1329455174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_65
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 10
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66956162e9258df4c9821e78ec0385c5
+      internalID: 715585714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_66
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 10
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c8e0bb964e7504cb279163d254d121
+      internalID: -1822917673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_67
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 10
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fe376a72806124b9d6d56d49105449
+      internalID: 1414984963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_68
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 10
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4ed0298a73fea4bb61f20287b2526b
+      internalID: -150015461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: griddygif_69
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 10
+        width: 480
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a561f87a312ba124e939260cb5c68661
+      internalID: 313322412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      griddygif_0: -1538163917
+      griddygif_1: -611345882
+      griddygif_10: 2131625981
+      griddygif_11: 1772288578
+      griddygif_12: -1951461822
+      griddygif_13: 1144274448
+      griddygif_14: 1916727294
+      griddygif_15: -980336527
+      griddygif_16: -1011319249
+      griddygif_17: 1199456921
+      griddygif_18: 916710607
+      griddygif_19: -2140738571
+      griddygif_2: 1076967977
+      griddygif_20: 719291446
+      griddygif_21: 1568665737
+      griddygif_22: 1795268850
+      griddygif_23: 1724158915
+      griddygif_24: 891600479
+      griddygif_25: 934204191
+      griddygif_26: -926115048
+      griddygif_27: -824289387
+      griddygif_28: -1365448933
+      griddygif_29: -841293028
+      griddygif_3: 1703870920
+      griddygif_30: 1015744975
+      griddygif_31: 23619447
+      griddygif_32: 1424152930
+      griddygif_33: 391271129
+      griddygif_34: 865511412
+      griddygif_35: -1880566121
+      griddygif_36: 1984801394
+      griddygif_37: -1748360522
+      griddygif_38: 1585384371
+      griddygif_39: 1037595759
+      griddygif_4: 1529087882
+      griddygif_40: 883657011
+      griddygif_41: -593196196
+      griddygif_42: 1161638228
+      griddygif_43: 1454472483
+      griddygif_44: 1845405316
+      griddygif_45: -2006209502
+      griddygif_46: 241088068
+      griddygif_47: -723409084
+      griddygif_48: 2132084785
+      griddygif_49: -1187895556
+      griddygif_5: 915495284
+      griddygif_50: -1986520847
+      griddygif_51: 1877976904
+      griddygif_52: 1276311019
+      griddygif_53: 1489649503
+      griddygif_54: -1699231723
+      griddygif_55: -14722829
+      griddygif_56: -2134530996
+      griddygif_57: 481146994
+      griddygif_58: 17887227
+      griddygif_59: -868336010
+      griddygif_6: -1764703565
+      griddygif_60: 2108948952
+      griddygif_61: -1518787585
+      griddygif_62: 158890431
+      griddygif_63: 1358053844
+      griddygif_64: -1329455174
+      griddygif_65: 715585714
+      griddygif_66: -1822917673
+      griddygif_67: 1414984963
+      griddygif_68: -150015461
+      griddygif_69: 313322412
+      griddygif_7: -806537199
+      griddygif_8: -1100936608
+      griddygif_9: -1323499680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

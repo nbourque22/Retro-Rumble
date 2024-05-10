@@ -9,29 +9,71 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: a3c4d21703a7c804eb6d7d40099a61c8
   - enabled: 1
-    path: Assets/Scenes/Load Scene 1.unity
+    path: Assets/Scenes/Level1/Load Scene 1.unity
     guid: beb988e9baa22d0458c94a4a0093f920
   - enabled: 1
-    path: Assets/Scenes/L1-3H.unity
+    path: Assets/Scenes/Level1/L1-3H.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/TD1.unity
+    path: Assets/Scenes/Level1/TD1.unity
     guid: a6f9834b97332df48b224a0937522728
   - enabled: 1
-    path: Assets/Scenes/L1-2H-msg.unity
+    path: Assets/Scenes/Level1/L1-2H-msg.unity
     guid: 546cfa5d96c0a7a4f977965849983e14
   - enabled: 1
-    path: Assets/Scenes/L1-2H.unity
+    path: Assets/Scenes/Level1/L1-2H.unity
     guid: 8282e55e87729bf4dbf4d3443b5ddb2e
   - enabled: 1
-    path: Assets/Scenes/L1-1H-msg.unity
+    path: Assets/Scenes/Level1/L1-1H-msg.unity
     guid: 5d398a83fb3a0d9458ad541c6fc61e5a
   - enabled: 1
-    path: Assets/Scenes/L1-1H.unity
+    path: Assets/Scenes/Level1/L1-1H.unity
     guid: 448083f6cbbf354428dcd18b4dc9fd59
   - enabled: 1
-    path: Assets/Scenes/Load Scene 2.unity
+    path: Assets/Scenes/Level2/Load Scene 2.unity
     guid: 9d315c66a35882e4e8de0ec68937fd67
+  - enabled: 1
+    path: Assets/Scenes/Level2/L2-3H.unity
+    guid: 4c3248f0a38392d4cbc87a6d9b84553d
+  - enabled: 1
+    path: Assets/Scenes/Level2/TD2.unity
+    guid: e7102159e9e5b57418beecc3c8a82982
+  - enabled: 1
+    path: Assets/Scenes/Level2/L2-2H-msg.unity
+    guid: da1925853c28156468611e2c8934bae6
+  - enabled: 1
+    path: Assets/Scenes/Level2/L2-2H.unity
+    guid: 6e262a6daa4b2cb41beaf65bfd83cbb8
+  - enabled: 1
+    path: Assets/Scenes/Level2/L2-1H-msg.unity
+    guid: 21044f21991249541bf1f8e97162d573
+  - enabled: 1
+    path: Assets/Scenes/Level2/L2-1H.unity
+    guid: c01fcc75228cc384b8dfbe90b49975ff
+  - enabled: 1
+    path: Assets/Scenes/Level3/Load Scene 3.unity
+    guid: 9202df0416e49ff498430d920bfdc0c4
+  - enabled: 1
+    path: Assets/Scenes/Level3/L3-3H.unity
+    guid: 08d689d956f8eaf4d8b13d03edc3c2a7
+  - enabled: 1
+    path: Assets/Scenes/Level3/TD3.unity
+    guid: 04e9c10b0600c0e4b855ab59d791a90b
+  - enabled: 1
+    path: Assets/Scenes/BeatGame.unity
+    guid: 808d402b6fd88ec4db30440ac599693e
+  - enabled: 1
+    path: Assets/Scenes/Level3/L3-2H-msg.unity
+    guid: f172ce87cf6dbe447b4d77507bf4cb3a
+  - enabled: 1
+    path: Assets/Scenes/Level3/L3-2H.unity
+    guid: a5e913cbf2eb4834da2db7c9c5ee252b
+  - enabled: 1
+    path: Assets/Scenes/Level3/L3-1H-msg.unity
+    guid: 83a85b4e464601a4d90837fa5db83108
+  - enabled: 1
+    path: Assets/Scenes/Level3/L3-1H.unity
+    guid: 7da46ecf9b3601d459b68423ef838f93
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: dc251c840ca015d43a26158042058b2e

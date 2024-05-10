@@ -11,9 +11,14 @@ public class MainMenuStart : MonoBehaviour
     {
         AudioSource.PlayClipAtPoint(buttonClick, transform.position);
     }
-    
+
     public void PlayGame()
     {
         SceneManager.LoadSceneAsync(1);
+    }
+
+    public void ControlScreen()
+    {
+        SceneManager.LoadSceneAsync(10);
     }
 }

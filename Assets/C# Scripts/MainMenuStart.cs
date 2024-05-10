@@ -19,6 +19,6 @@ public class MainMenuStart : MonoBehaviour
 
     public void ControlScreen()
     {
-        SceneManager.LoadSceneAsync(10);
+        SceneManager.LoadSceneAsync(24);
     }
 }

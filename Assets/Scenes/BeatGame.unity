@@ -158,7 +158,7 @@ Camera:
   m_GameObject: {fileID: 122976265}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
+  m_ClearFlags: 2
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -226,7 +226,7 @@ GameObject:
   - component: {fileID: 337463858}
   - component: {fileID: 337463857}
   m_Layer: 0
-  m_Name: heisman
+  m_Name: HeismanPic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -293,8 +293,8 @@ Transform:
   m_GameObject: {fileID: 337463856}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.5, z: 0}
-  m_LocalScale: {x: 3, y: 3, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -416,7 +416,7 @@ GameObject:
   - component: {fileID: 408331953}
   - component: {fileID: 408331952}
   m_Layer: 5
-  m_Name: lsu
+  m_Name: LSUhype
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -438,8 +438,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1000, y: -25}
-  m_SizeDelta: {x: 150, y: 100}
+  m_AnchoredPosition: {x: -470, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &408331952
 Animator:
@@ -513,7 +513,7 @@ GameObject:
   - component: {fileID: 824297801}
   - component: {fileID: 824297803}
   m_Layer: 5
-  m_Name: griddy
+  m_Name: Griddy_Gif
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -535,7 +535,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1000, y: -25}
+  m_AnchoredPosition: {x: 470, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &824297801
@@ -609,7 +609,7 @@ GameObject:
   - component: {fileID: 1265736611}
   - component: {fileID: 1265736610}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: GameBeat Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -858,7 +858,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: -1
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.15693335, g: 0.08495015, b: 0.21698111, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -888,7 +888,7 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 122976268}
-  - {fileID: 340538450}
   - {fileID: 1309445349}
-  - {fileID: 337463858}
   - {fileID: 2021758013}
+  - {fileID: 337463858}
+  - {fileID: 340538450}
